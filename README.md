@@ -6,9 +6,13 @@
       private final String name = "Seungyeon";
       private final String role = "Backend Developer";
   
-      private final String[] mainSkills = { "Java", "Spring Boot", "Spring Data JPA", "MySQL" };
+      private final String[] mainSkills = {
+          "Java", "Spring Boot", "Spring Data JPA", "MySQL", "Node.js"
+      };
   
-      private final String[] familiarWith = { "GitHub Actions", "WebRTC", "WebSocket" };
+      private final String[] familiarWith = {
+          "GitHub Actions", "WebRTC", "Mediasoup", "WebSocket", "MyBatis"
+      };
   }
   ```
   
